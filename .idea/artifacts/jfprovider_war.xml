@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jfprovider:war">
+    <output-path>$PROJECT_DIR$/jfprovider/target</output-path>
+    <root id="archive" name="jfprovider.war">
+      <element id="artifact" artifact-name="jfprovider:war exploded" />
+    </root>
+  </artifact>
+</component>

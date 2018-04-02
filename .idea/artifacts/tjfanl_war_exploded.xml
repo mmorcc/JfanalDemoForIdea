@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tjfanl:war exploded">
+    <output-path>$PROJECT_DIR$/tjfanl/target/tjfanl</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tjfanl" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/tjfanl/target/tjfanl/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="tjfanl/web/Web" />
+    </root>
+  </artifact>
+</component>

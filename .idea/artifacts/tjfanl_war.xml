@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tjfanl:war">
+    <output-path>$PROJECT_DIR$/tjfanl/target</output-path>
+    <root id="archive" name="tjfanl.war">
+      <element id="artifact" artifact-name="tjfanl:war exploded" />
+    </root>
+  </artifact>
+</component>

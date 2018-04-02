@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jfan.iml" filepath="$PROJECT_DIR$/jfan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jfinal-web-demo-provider/jfinal-web-demo-provider.iml" filepath="$PROJECT_DIR$/jfinal-web-demo-provider/jfinal-web-demo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jfprovider/jfprovider.iml" filepath="$PROJECT_DIR$/jfprovider/jfprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tjfanl/tjfanl.iml" filepath="$PROJECT_DIR$/tjfanl/tjfanl.iml" />
+    </modules>
+  </component>
+</project>

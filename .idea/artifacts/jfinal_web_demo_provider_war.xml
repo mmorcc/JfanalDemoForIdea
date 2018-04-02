@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jfinal-web-demo-provider:war">
+    <output-path>$PROJECT_DIR$/jfinal-web-demo-provider/target</output-path>
+    <root id="archive" name="jfinal-web-demo-provider.war">
+      <element id="artifact" artifact-name="jfinal-web-demo-provider:war exploded" />
+    </root>
+  </artifact>
+</component>
